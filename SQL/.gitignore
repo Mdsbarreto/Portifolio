@@ -1,3 +1,5 @@
+.metadata/
 +/
 drivers/
-*.txt
+General/
+.properties
