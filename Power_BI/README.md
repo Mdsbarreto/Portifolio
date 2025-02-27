@@ -5,6 +5,8 @@ Nota
 Sendo uma ferramenta nativa do Power BI, os gráficos e números apresentados são dinâmicos, ou seja, eles se atualizam conforme interagimos com o dashboard, seja clicando em itens nas tabelas, datas, segmentações ou outros elementos.
 
 
+
+
 > Análise de Pagamentos
 
 No gráfico de árvore, é possível filtrar os dados por qualquer uma das "ramificações". Com as opções selecionadas no dashboard, observamos que a maioria dos pedidos já foi entregue e paga em uma única parcela no cartão de crédito.
@@ -14,11 +16,15 @@ O gráfico de rosca oferece uma visão comparativa dos diferentes tipos de pagam
 Já a tabela apresenta informações estratégicas para tomada de decisão, exibindo, por exemplo, a lista dos clientes que mais compraram.
 
 
+
+
 > Análise de Pedidos
 
 No primeiro KPI no topo, temos uma visão dos pedidos do mês atual, com uma meta baseada no mesmo mês do ano anterior acrescida de 10%. Já o KPI anual segue a mesma lógica, considerando os pedidos ao longo do ano.
 
 A tabela e a matriz à esquerda validam esses dados, enquanto o Treemap à direita exibe a distribuição dos pedidos por estado, destacando a predominância de alguns estados sobre os demais. Como nem todos os estados podem ser visualizados individualmente, o foco é mostrar essa proporção geral.
+
+
 
 
 > Análise de Avaliações

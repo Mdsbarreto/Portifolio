@@ -2,6 +2,9 @@
 # Projetos de Python
 
 
+
+
+
 Análise 1 - Análise Histórica do S&P 500 e Indicadores Econômicos
 
 Este projeto explora a relação entre o índice S&P 500 e diversos indicadores econômicos ao longo dos últimos 20 anos, utilizando uma base de dados extensa que contém quase 30 variáveis adicionais.
@@ -13,6 +16,8 @@ Redução do período de análise para destacar padrões recentes.
 Comparação entre o Sentimento do Consumidor (Con-Sentim) e o S&P 500, com destaque para os impactos da pandemia.
 Identificação das datas com menor índice de confiança do consumidor e análise estatística das features.
 Observação de lacunas nos dados históricos, especialmente em registros mais antigos.
+
+
 
 
 
@@ -32,6 +37,8 @@ Principais Etapas:
 	- Correlação entre Idade e Salário, sem relação significativa observada.
 	- Identificação de faixas salariais predominantes (entre R$15.000 e R$70.000 anuais).
 	- Destaque para os clientes de 22 e 55 anos, que apresentam o maior e menor salário dentro do conjunto analisado.
+
+
 
 
 

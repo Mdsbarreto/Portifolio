@@ -4,6 +4,8 @@
 Para cada arquivo de análise há uma aba com dashboard explicando o cenário e o gráfico
 
 
+
+
 > Análise 1 > Análise do produtos 
 
 > Dashboard 1
@@ -21,7 +23,6 @@ obs. No gráfico de dispersão, foi retirados os produtos com lucro acima de 200
 No primeiro gráfico (gráfico de linha), vemos que quanto mais itens na compra, maior o valor médio. É comum ao realizar compras (on line ou em lojas fisicas) sempre ter sugestões de compras, no caso de compras online, pode ser mais especifica, sugerindo produtos relacionado a compra do produto que esta sendo feita.
 
 Nesse cenário de compras, adicionei um grafico de barras ao lado, que nos diz, o tempo de compra até o despacho para a entrega, embora a 'entrega' seja inferior das demais, deveria ser mais baixo ainda, algo a ser discutido.
-
 
 
 
