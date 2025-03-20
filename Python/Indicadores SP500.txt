@@ -1,0 +1,91 @@
+
+
+Tradução das colunas com uma breve explicação de cada uma:
+
+1. **Date** - 	  	Data: Data das observações.
+>2. **SP500** - 	S&P 500: Índice que representa as 500 maiores empresas listadas na bolsa de valores dos EUA.
+>3. **Fed-Rate**    	Taxa do Fed: Taxa de juros estabelecida pelo Federal Reserve (Banco Central dos EUA).
+>20. **Home-Sales** - 	Vendas de Casas: Número de vendas de casas em um período específico.
+>34. **Total-Emp** - 	Emprego Total: Número total de pessoas empregadas.
+>35. **Unemploy** - 	Desemprego: Taxa de desemprego.
+>38. **GDP** - 		PIB: Produto Interno Bruto, medida da atividade econômica total.
+>44. **Recession** - 	Recessão: Indicador de recessão econômica.
+
+
+>21. **Home-Starts** - 	Início de Construção de Casas: 		Número de novas construções de casas iniciadas.
+>23. **Indust-Prod** - 	Produção Industrial: 			Medida da produção do setor industrial.
+>24. **Inventory-Sales* Inventário/Vendas: 			Relação entre os estoques e as vendas.
+>32. **PCE-Core** - 	Núcleo das Despesas de Consumo Pessoal: PCE excluindo alimentos e energia.
+>39. **Bus-Apps** - 	Aplicações de Negócios: 		Número de novas aplicações para negócios.
+>40. **Loans-CI** - 	Empréstimos Comerciais e Industriais: 	Total de empréstimos para fins comerciais e industriais.
+>41. **Loans-Cons** - 	Empréstimos ao Consumidor: 		Total de empréstimos para consumidores.
+>42. **Loans-RE** - 	Empréstimos Imobiliários: 		Total de empréstimos imobiliários.
+>43. **Unemp-Claims** - Pedidos de Seguro-Desemprego: 		Número de pedidos de seguro-desemprego.
+
+
+15. **Con-Sentim** - 	Sentimento do Consumidor: Índice que mede o sentimento dos consumidores sobre a economia.
+16. **Con-Spends** - 	Gastos do Consumidor: Total dos gastos dos consumidores.
+17. **CPI** - 		Índice de Preços ao Consumidor: Medida que examina a média ponderada dos preços de uma cesta de bens e serviços.
+18. **CPI-Core** - 	Núcleo do Índice de Preços ao Consumidor: CPI excluindo itens voláteis como alimentos e energia.
+19. **CPI-Services** - 	Índice de Preços ao Consumidor de Serviços: Parte do CPI que mede apenas os preços dos serviços.
+22. **Income-Trans** - 	Transferências de Renda: Transferências de renda do governo para os indivíduos.
+25. **Manu-Hours** - 	Horas de Manufatura: Número total de horas trabalhadas no setor manufatureiro.
+26. **MT-Sales** - 	Vendas do Comércio: Vendas totais no comércio.
+27. **NO-Capital** - 	Ordens de Bens de Capital: Pedidos de bens de capital, excluindo defesa e aeronaves.
+28. **NO-Consumer** - 	Ordens de Bens de Consumo: Pedidos de bens de consumo.
+29. **NO-Durables** - 	Ordens de Bens Duráveis: Pedidos de bens duráveis.
+30. **NO-Unfilled** - 	Ordens Não Atendidas: Pedidos que ainda não foram atendidos.
+31. **PCE** - 		Despesas de Consumo Pessoal: Medida dos gastos pessoais dos consumidores.
+33. **PPI-Architect** - Índice de Preços ao Produtor Arquitetura: Medida dos preços recebidos pelos produtores de serviços de arquitetura.
+36. **Unemp-Weeks** - 	Semanas de Desemprego: Número médio de semanas de desemprego.
+37. **Delinq-CreditC** 	Inadimplência no Cartão de Crédito: Taxa de inadimplência nos pagamentos de cartão de crédito.
+
+
+
+45. **Con-Sentim_release 	Divulgação do Sentimento do Consumidor: 		Data de divulgação do índice de sentimento do consumidor.
+46. **Con-Spends_release 	Divulgação dos Gastos do Consumidor: 			Data de divulgação dos gastos do consumidor.
+47. **CPI_release** -	 	Divulgação do Índice de Preços ao Consumidor: 		Data de divulgação do CPI.
+48. **CPI-Core_release** 	Divulgação do Núcleo do Índice de Preços ao Consumidor: Data de divulgação do CPI-Core.
+49. **CPI-Services_release** - 	Divulgação do Índice de Preços ao Consumidor de ServiçosData de divulgação do CPI-Services.
+50. **Home-Sales_release** - 	Divulgação das Vendas de Casas: 			Data de divulgação das vendas de casas.
+51. **Home-Starts_release** - 	Divulgação do Início de Construção de Casas: 		Data de divulgação do Home-Starts.
+52. **Income-Trans_release** - 	Divulgação das Transferências de Renda: 		Data de divulgação das transferências de renda.
+53. **Indust-Prod_release** - 	Divulgação da Produção Industrial: 			Data de divulgação da produção industrial.
+54. **Inventory-Sales_release** Divulgação do Inventário/Vendas: 			Data de divulgação do inventário/vendas.
+55. **Manu-Hours_release** - 	Divulgação das Horas de Manufatura: 			Data de divulgação das horas de manufatura.
+56. **MT-Sales_release** - 	Divulgação das Vendas do Comércio: 			Data de divulgação das vendas do comércio.
+57. **NO-Capital_release** - 	Divulgação das Ordens de Bens de Capital: 		Data de divulgação das ordens de bens de capital.
+58. **NO-Consumer_release** - 	Divulgação das Ordens de Bens de Consumo: 		Data de divulgação das ordens de bens de consumo.
+59. **NO-Durables_release** - 	Divulgação das Ordens de Bens Duráveis: 		Data de divulgação das ordens de bens duráveis.
+60. **NO-Unfilled_release** - 	Divulgação das Ordens Não Atendidas: 			Data de divulgação das ordens não atendidas.
+61. **PCE_release** - 		Divulgação das Despesas de Consumo Pessoal: 		Data de divulgação do PCE.
+62. **PCE-Core_release** - 	Divulgação do Núcleo das Despesas de Consumo Pessoal: 	Data de divulgação do PCE-Core.
+63. **PPI-Architect_release** - Divulgação do Índice de Preços ao Produtor Arquitetura	Data de divulgação do PPI-Architect.
+64. **Total-Emp_release** - 	Divulgação do Emprego Total: 				Data de divulgação do emprego total.
+65. **Unemploy_release** - 	Divulgação do Desemprego: 				Data de divulgação da taxa de desemprego.
+66. **Unemp-Weeks_release** - 	Divulgação das Semanas de Desemprego: 			Data de divulgação das semanas de desemprego.
+67. **Delinq-CreditC_release**  Divulgação da Inadimplência no Cartão de Crédito: 	Data de divulgação da inadimplência no cartão de crédito.
+68. **GDP_release** - 		Divulgação do PIB: 					Data de divulgação do PIB.
+
+
+5. **Yield-1M** -  Rendimento 1 mês: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 1 mês.
+10. **Yield-3M** - Rendimento 3 meses: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 3 meses.
+13. **Yield-6M** - Rendimento 6 meses: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 6 meses.
+6. **Yield-1Y** -  Rendimento 1 ano: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 1 ano.
+8. **Yield-2Y** -  Rendimento 2 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 2 anos.
+11. **Yield-3Y** - Rendimento 3 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 3 anos.
+12. **Yield-5Y** - Rendimento 5 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 5 anos.
+14. **Yield-7Y** - Rendimento 7 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 7 anos.
+4. **Yield-10Y** - Rendimento 10 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 10 anos.
+7. **Yield-20Y** - Rendimento 20 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 20 anos.
+9. **Yield-30Y** - Rendimento 30 anos: Taxa de rendimento dos títulos do Tesouro dos EUA com vencimento em 30 anos.
+
+
+from babel.numbers import format_currency
+df02A['GDP'] = df02A['GDP'].apply(lambda x: format_currency(x, 'BRL', locale='pt_BR'))
+
+
+
+
+
+
