@@ -21,6 +21,6 @@ Atualmente, busco uma oportunidade para iniciar minha trajetória como Analista 
 
 Contato
 
-mdsbarreto10@gmail.com
 www.linkedin.com/in/marcelobarreto
+
 11 95732 – 0700 
