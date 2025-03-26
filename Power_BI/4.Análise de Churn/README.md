@@ -1,23 +1,18 @@
 
 # Projetos de Power BI
 
-Nota
-Sendo uma ferramenta nativa do Power BI, os gráficos e números apresentados são dinâmicos, ou seja, eles se atualizam conforme interagimos com o dashboard, seja clicando em itens nas tabelas, datas, segmentações ou em outros elementos.
-
-
 
 
 > Análise de Churn
 
-Com os dados apresentados, a taxa de Churn está em 20, 4%, filtrando vários features, usando como segmentações vamos fazer filtragens para localizarmos cenários onde a taxa de Churn ‘pesa’ mais
 
-Encontrado os seguintes insights
+Com os dados apresentados, a taxa de Churn é de 20,4%. Ao aplicar filtros e segmentações em diversas variáveis, conseguimos identificar cenários onde a taxa de Churn é mais impactante.
 
-	Gênero: 25,1 % apenas mulheres
-	Ativo: 26,9% clientes não ativos
-	Idade: a faixa dos 45 anos aos 60 anos, ultrapassa os 49,5%
-	Localidade: Alemanha 32,4%
+Os seguintes insights foram encontrados:
 
+- Gênero: 25,1% dos clientes que apresentam Churn são mulheres.
+- Status de Atividade: 26,9% dos clientes não estão ativos.
+- Idade: A faixa etária de 45 a 60 anos representa mais de 49,5% dos casos de Churn.
+- Localidade: A Alemanha possui uma taxa de Churn de 32,4%.
 
-Assim, de acordo com nossas análises e que são demonstradas graficamente no dashboard do Power Point, são principalmente os 4 itens listados acima que a empresa deve investir para aumentar a taxa de Churn
-
+Assim, com base nas análises realizadas e apresentadas graficamente no dashboard do Power BI, podemos concluir que a empresa deve focar principalmente nesses quatro aspectos para reduzir a taxa de Churn.
