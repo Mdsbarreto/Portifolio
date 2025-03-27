@@ -4,6 +4,7 @@
 Bem-vindo ao meu repositório de portfólio! Aqui você encontrará projetos relacionados a **Análise de Dados** utilizando **Power BI, Python, Excel e SQL**
 
 
+
 📌 **Seções:**
 
 • Power BI: Criação de dashboards e análises de pagamentos, pedidos e avaliações, proporcionando insights estratégicos para tomada de decisões.
