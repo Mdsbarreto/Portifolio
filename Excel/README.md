@@ -11,7 +11,7 @@ Para cada arquivo de análise há uma aba com dashboard explicando o cenário e 
 
 > Dashboard 1
 
-Nessa Analise há uma avaliação em relação ao lucro de cada produto, há gráficos de barars e de dispersão para que possamos visualizar melhor os produtos comparados entres eles.
+Nessa Analise há uma avaliação em relação ao lucro de cada produto, há gráficos de barras e de dispersão para que possamos visualizar melhor os produtos comparados entres eles.
 
 Nos gráficos de barras apresentados, vemos os produtos que mais deram lucros e prejuizos, assim podemos avaliar se devemos continuar vendendo ou aumentar as vendas destes produtos
 
@@ -34,7 +34,7 @@ Nesse cenário de compras, adicionei um grafico de barras ao lado, que nos diz, 
 > Dashboard 
 No primeiro gráfico de barras, vemos a quantidade de vendas de toda a base mês a mês,   embora com muitas oscilações, há uma tendencia de alta, observamos tambem que no começo dos anos, as vendas são mais baixas comparadas aos demais meses
 
-No gráfico de rosca, nos mostra uma comparação do modo de entrega realziado, a standart (entrega tradicional) prevalece, geralmente por ser mais economica, embora o prezo de entrega é maior comparada com os demais modos de entrega
+No gráfico de rosca, nos mostra uma comparação do modo de entrega realizado, a standart (entrega tradicional) prevalece, geralmente por ser mais economica, embora o prezo de entrega é maior comparada com os demais modos de entrega
 
 No gráfico de barras ao lado, os produtos mais vendidos e em quantas compras diferentes esteve,  os 2 primeiros mais vendidos foram os que mais estiveram em diferentes pedidos, Já os demais produtos, praticamente estão no mesmo nivel de produtos vendidos X quantidade de pedidos
 
@@ -47,13 +47,16 @@ No gráfico de funil nos apresesta os clientes com as maiores médias de compras
 
 > Analise 3 > Análise de Compras
 
-O gráfico de dispersão nos mostra que quanto maior a quantidade de produtos em cada  pedido, maior a diversificaçaõ de produtos, isto é, usuários nas suas compras de vários itens, nao concentram um comprar vários itens de um mesmo produto, mas sim vários produtos diferentes em um pedido. è nítid que segue a linha de tendencia
+O gráfico de dispersão nos mostra que quanto maior a quantidade de produtos em cada  pedido, maior a diversificaçaõ de produtos, isto é, usuários nas suas compras de vários itens, nao concentram um comprar vários itens de um mesmo produto, mas sim vários produtos diferentes em um pedido. É nítido que segue a linha de tendencia
 com essa informação, podemos sempre sugerir produtos a ser acrescentados no carrinho
 como por exemplo, sugerir novos produtos, já na tela de compra ou pagamento
 porque conforme citado, a uma tendencia de adicionar outros produtos, além daquele o qual já esta no carrinho para a compra
 
 
 No gráfico Mapa de árvore, embora não seja possivel visualizar todos os blocos, mas o objetivo é mostrar a dimensão dos blocos maiores comprarado com os menores, este gráfico nos diz que o tamanho da compra de um só item único produtos com 1 item único, são mais de 50% de todas as outras compras , as quais contem mais de 2 produtos em cada compra
+
+
+
 
 
 > Análise 4 - Gráfico de Cohort
