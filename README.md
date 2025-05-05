@@ -11,7 +11,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará projetos rel
 
 • Excel: Desenvolvimento de análises em produtos, vendas, compras e criação de gráficos de cohort para análise de comportamento ao longo do tempo.
 
-• SQL: Análises profundas em clientes, pedidos e produtos, além de consultas para pedidos e vendedores, otimizando a extração de dados.
+• SQL: Análises em clientes, pedidos e produtos, além de consultas para pedidos e vendedores, otimizando a extração de dados.
 
 • Python: Implementação de projetos de tratamento de dados financeiros de clientes, análise histórica do S&P 500 e análises estatísticas de dados financeiros, focando em extração de insights relevantes.
 

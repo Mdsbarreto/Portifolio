@@ -48,9 +48,8 @@ No gráfico de funil nos apresesta os clientes com as maiores médias de compras
 > Analise 3 > Análise de Compras
 
 O gráfico de dispersão nos mostra que quanto maior a quantidade de produtos em cada  pedido, maior a diversificaçaõ de produtos, isto é, usuários nas suas compras de vários itens, nao concentram um comprar vários itens de um mesmo produto, mas sim vários produtos diferentes em um pedido. É nítido que segue a linha de tendencia
-com essa informação, podemos sempre sugerir produtos a ser acrescentados no carrinho
-como por exemplo, sugerir novos produtos, já na tela de compra ou pagamento
-porque conforme citado, a uma tendencia de adicionar outros produtos, além daquele o qual já esta no carrinho para a compra
+
+Com essa informação, podemos sempre sugerir produtos a ser acrescentados no carrinho, como por exemplo, sugerir novos produtos, já na tela de compra ou pagamento porque conforme citado, a uma tendencia de adicionar outros produtos, além daquele o qual já esta no carrinho para a compra
 
 
 No gráfico Mapa de árvore, embora não seja possivel visualizar todos os blocos, mas o objetivo é mostrar a dimensão dos blocos maiores comprarado com os menores, este gráfico nos diz que o tamanho da compra de um só item único produtos com 1 item único, são mais de 50% de todas as outras compras , as quais contem mais de 2 produtos em cada compra
