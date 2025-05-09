@@ -15,7 +15,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará projetos rel
 
 • Python: Implementação de projetos de tratamento de dados financeiros de clientes, análise histórica do S&P 500 e análises estatísticas de dados financeiros, focando em extração de insights relevantes.
 
-
+ 
 
 Atualmente, busco uma oportunidade para iniciar minha trajetória como Analista de Dados, contribuindo para a tomada de decisões estratégicas por meio da construção de soluções baseadas em dados.
 
